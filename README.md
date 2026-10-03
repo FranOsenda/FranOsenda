@@ -116,8 +116,8 @@
 ## 📌 Repo destacado
 
 <p align="center">
-<a href="https://github.com/FranOsenda/TP-Unidad-API-Rest---Programaci-n-2-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FranOsenda&repo=TP-Unidad-API-Rest---Programaci-n-2-&theme=tokyonight&hide_border=true" alt="Repo destacado"/>
+<a href="https://github.com/FranOsenda/EDTE.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FranOsenda&repo=EDTE&theme=tokyonight&hide_border=true" alt="Repo destacado"/>
 </a>
 </p>
 
